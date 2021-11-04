@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/e-livraria-http/e-livraria-http.iml" filepath="$PROJECT_DIR$/e-livraria-http/e-livraria-http.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e-livraria-modelo/e-livraria-modelo.iml" filepath="$PROJECT_DIR$/e-livraria-modelo/e-livraria-modelo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e-livraria-modularizado.iml" filepath="$PROJECT_DIR$/e-livraria-modularizado.iml" />
+    </modules>
+  </component>
+</project>
