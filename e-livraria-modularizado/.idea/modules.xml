@@ -5,6 +5,8 @@
       <module fileurl="file://$PROJECT_DIR$/e-livraria-http/e-livraria-http.iml" filepath="$PROJECT_DIR$/e-livraria-http/e-livraria-http.iml" />
       <module fileurl="file://$PROJECT_DIR$/e-livraria-modelo/e-livraria-modelo.iml" filepath="$PROJECT_DIR$/e-livraria-modelo/e-livraria-modelo.iml" />
       <module fileurl="file://$PROJECT_DIR$/e-livraria-modularizado.iml" filepath="$PROJECT_DIR$/e-livraria-modularizado.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e-livraria-nota-fiscal/e-livraria-nota-fiscal.iml" filepath="$PROJECT_DIR$/e-livraria-nota-fiscal/e-livraria-nota-fiscal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e-livraria-principal/e-livraria-principal.iml" filepath="$PROJECT_DIR$/e-livraria-principal/e-livraria-principal.iml" />
     </modules>
   </component>
 </project>
